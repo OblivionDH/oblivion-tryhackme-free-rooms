@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://obliviondh.com"><img src="https://raw.githubusercontent.com/ivanbg2004/oblivion-tryhackme-free-rooms/main/.github/banner.png" alt="Oblivion TryHackMe Free Rooms — by Oblivion" width="100%"></a>
+  <a href="https://obliviondh.com"><img src=".github/banner.png" alt="Oblivion TryHackMe Free Rooms — by Oblivion" width="100%"></a>
 </p>
 
 <h1 align="center">Oblivion TryHackMe Free Rooms</h1>
